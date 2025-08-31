@@ -11,6 +11,7 @@ A custom drone flight controller and autopilot built with a Raspberry Pi Pico W,
   - Raspberry Pi Pico W  
   - MPU9250 (9-axis gyroscope & accelerometer)  
   - BMM150 (magnetometer)  
+  - Chassit is 3D-printed
 
 - **Controller Options:**  
   - Laptop program connected via Pico W WiFi (⚠️ currently slow)  
